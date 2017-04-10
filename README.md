@@ -1,4 +1,4 @@
-[![](https://badge.imagelayers.io/1science/java:latest.svg)](https://imagelayers.io/?images=1science/java:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/1science/java.svg)](https://microbadger.com/images/1science/java "Get your own image badge on microbadger.com")
 
 # What is Java?
 
